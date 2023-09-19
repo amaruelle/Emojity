@@ -69,8 +69,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
         // Validate input
         const emoji = emojiInput.value;
-        if (emoji.length > 2) {
-            alert('Please enter an emoji or up to 2 symbols');
+        if (emoji.length > 4) {
+            alert('Please enter an emoji or up to 4 symbols');
             return;
         }
 
