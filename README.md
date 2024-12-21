@@ -8,8 +8,4 @@ This app uses Bootstrap 5 and raw HTML+JS to draw a colored background and add a
 
 Provided as-is, you can copy and modify it to fit your needs, also any pull requests are appreciated! 😄
 
-## Contact
-
-You can reach me on **Discord or Telegram** by nickname: `bulkabuka`.
-
 > Happy emojying!
